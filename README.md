@@ -1,0 +1,1 @@
+My codewriting methodology included NodeJS, TypeScript, Cmd, Inquirer, and Chalk. This calculator is straightforward and capable of performing operations like addition, subtraction, multiplication, division, exponentiation, and modulus. I added it to Npm.js as well.
